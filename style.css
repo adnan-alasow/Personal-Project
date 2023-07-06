@@ -1,0 +1,19 @@
+body{
+  background-color: rgb(197, 104, 104);
+}
+
+
+header {
+  color: black;
+  line-height: 1.5;
+  margin-bottom: 1.5em;
+}
+
+table, tr, th, td, caption {
+  border: 1px solid ;
+}
+
+.caption.projectTable {
+  color: blue;
+}
+
